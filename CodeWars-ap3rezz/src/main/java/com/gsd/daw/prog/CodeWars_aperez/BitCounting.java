@@ -1,5 +1,7 @@
 package com.gsd.daw.prog.CodeWars_aperez;
 
+
+//Bit Counting
 public class BitCounting {
 
 	public static int countBits(int n) {

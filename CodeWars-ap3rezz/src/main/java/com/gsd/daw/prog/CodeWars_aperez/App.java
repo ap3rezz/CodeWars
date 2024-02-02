@@ -15,6 +15,10 @@ public class App
     //	char[] prueba= {'b','c','d','e','f'};
     	
     //	Kata.findMissingLetter(prueba);
-    	Persist.persistence(4);
+    //	Persist.persistence(4);
+    
+    Kata2.incrementString("foobar99");
+    
+    
     }
 }
