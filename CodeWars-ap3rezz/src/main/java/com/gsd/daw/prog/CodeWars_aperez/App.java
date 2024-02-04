@@ -17,8 +17,13 @@ public class App
     //	Kata.findMissingLetter(prueba);
     //	Persist.persistence(4);
     
-    Kata2.incrementString("foobar99");
+ //   Kata2.incrementString("foobar99");
+    	 
+    	//PigLatin.pigIt("tora o mores !");
     
-    
+    	StringSplit.solution("abcd");
+    	
+  
+    	
     }
 }
