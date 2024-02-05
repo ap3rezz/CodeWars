@@ -21,9 +21,20 @@ public class App
     	 
     	//PigLatin.pigIt("tora o mores !");
     
-    	StringSplit.solution("abcd");
+    //	StringSplit.solution("abcd");
     	
+    	
+
+    	
+   // 	Counter.countSheeps(array1);
   
+    	                      
+   // Solution2.toCamelCase("hola_como_estas");	                      
+    
+    	
+   // 	Order.order("is2 Thi1s T4est 3a");
+    
+    	Solution3.century(89);
     	
     }
 }
