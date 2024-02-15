@@ -1,5 +1,10 @@
 package com.gsd.daw.prog.CodeWars_aperez;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.*;
+
 /**
  * Hello world!
  *
@@ -34,7 +39,39 @@ public class App
     	
    // 	Order.order("is2 Thi1s T4est 3a");
     
-    	Solution3.century(89);
+    	//Solution3.century(89);
+    	
+    	
+    	List<String> myList = new ArrayList<String>(Arrays.asList(
+    		    "A_Red",
+    		    "B_Yellow",
+    		    "A_Red",
+    		    "B_Yellow",
+    		    "A_Red",
+    		    "B_Yellow",
+    		    "G_Red",
+    		    "B_Yellow"
+    		));
+    	
+    	
+    	ConnectFour.whoIsWinner(myList);
+    	
+    
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
     	
     }
 }

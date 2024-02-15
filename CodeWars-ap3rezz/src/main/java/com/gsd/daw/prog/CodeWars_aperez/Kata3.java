@@ -6,8 +6,6 @@ public class Kata3 {
 
 		StringBuilder strBuild = new StringBuilder(str);
 		
-		
-		
 		return String.valueOf(strBuild.reverse());
 	}
 
