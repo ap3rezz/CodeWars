@@ -41,7 +41,7 @@ public class App
     
     	//Solution3.century(89);
     	
-    	
+   /* 	
     	List<String> myList = new ArrayList<String>(Arrays.asList(
     		    "A_Red",
     		    "B_Yellow",
@@ -56,10 +56,17 @@ public class App
     	
     	ConnectFour.whoIsWinner(myList);
     	
+    */
+    	
     
+    	//HowManyPagesInABook.amountOfPages(1095);
     	
     	
     	
+    	//List<String> a = new ArrayList<String>();
+        //a.add(":)"); a.add(":D"); a.add(":-}"); a.add(":-()");
+      		
+    	//SmileFaces.countSmileys(a);
     	
     	
     	
