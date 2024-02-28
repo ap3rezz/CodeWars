@@ -3,6 +3,9 @@ package com.gsd.daw.prog.CodeWars_aperez;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+
+import javax.lang.model.util.SimpleAnnotationValueVisitor14;
+
 import java.*;
 
 /**
@@ -41,7 +44,11 @@ public class App
     
     	//Solution3.century(89);
     	
+
    /* 	
+=======
+    	/*
+>>>>>>> branch 'master' of git@github.com:ap3rezz/CodeWars.git
     	List<String> myList = new ArrayList<String>(Arrays.asList(
     		    "A_Red",
     		    "B_Yellow",
@@ -53,11 +60,19 @@ public class App
     		    "B_Yellow"
     		));
     	
+    	*/
     	
-    	ConnectFour.whoIsWinner(myList);
     	
-    */
+
+    	//ConnectFour.whoIsWinner(myList);
     	
+    	
+    	
+    	List<String> a = new ArrayList<String>();
+        a.add(":)"); a.add(":D"); a.add(":-}"); a.add(":-()");
+      		
+    	SmileFaces.countSmileys(a);
+
     
     	//HowManyPagesInABook.amountOfPages(1095);
     	
