@@ -7,6 +7,7 @@ import java.util.List;
 import javax.lang.model.util.SimpleAnnotationValueVisitor14;
 
 import java.*;
+import java.sql.Time;
 
 /**
  * Hello world!
@@ -68,10 +69,10 @@ public class App
     	
     	
     	
-    	List<String> a = new ArrayList<String>();
-        a.add(":)"); a.add(":D"); a.add(":-}"); a.add(":-()");
+    	//List<String> a = new ArrayList<String>();
+       // a.add(":)"); a.add(":D"); a.add(":-}"); a.add(":-()");
       		
-    	SmileFaces.countSmileys(a);
+    	//SmileFaces.countSmileys(a);
 
     
     	//HowManyPagesInABook.amountOfPages(1095);
@@ -84,9 +85,9 @@ public class App
     	//SmileFaces.countSmileys(a);
     	
     	
+    	//TimeFormatter.formatDuration(120);
     	
-    	
-    	
+    	RangeExtraction.rangeExtraction(new int[] {-6,-3,-2,-1,0,1,3,4,5,7,8,9,10,11,14,15,17,18,19,20});
     	
     	
     	
